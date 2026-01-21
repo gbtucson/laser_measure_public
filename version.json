@@ -1,5 +1,5 @@
 {
   "app_version": "1.0.0",
-  "firmware_version": "8.9.7",
-  "firmware_url": "https://raw.githubusercontent.com/gbtucson/laser_measure_public/main/firmware_v8_9_7.bin"
+  "firmware_version": "8.9.8",
+  "firmware_url": "https://raw.githubusercontent.com/gbtucson/laser_measure_public/main/firmware_v8_9_8.bin"
 }
